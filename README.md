@@ -1,2 +1,7 @@
 # Simple-Blockchain-Project
-# This project is done to minimize the amount of Gas used for each transaction
+
+Smart contract is written using Solidity for the users to enter their name and age
+
+On clicking "submit" the values are returned along with the block hash
+
+
